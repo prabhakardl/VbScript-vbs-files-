@@ -1,0 +1,1 @@
+cscript //Nologo replace.vbs c:\docs\demo.txt "Madonna" "Lady Gaga"
